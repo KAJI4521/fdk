@@ -180,6 +180,7 @@ td {
 /*スマホ用のスタイル*/
 .header-left{
   font-size: 20px;
+  width : auto;
 }
 header {
   height: 50px;
@@ -188,6 +189,7 @@ header ul {
   font-size: 15px;
   margin: auto;
   padding-right: 15px;
+  justify-content: space-around;
 }
 .contents-menu {
   display: flex;
@@ -216,11 +218,11 @@ header ul {
   font-size: 20px;
 }
 .sns i {
-  font-size: 15px;
+  font-size: 8px;
 }
 .instagram-btn {
   flex: auto;
-  font-size: 18px;
+  font-size: 8px;
   padding-top: 8px;
 }
 .rist {
