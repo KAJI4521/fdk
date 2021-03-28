@@ -180,15 +180,15 @@ td {
 /*スマホ用のスタイル*/
 .header-left{
   font-size: 20px;
-  width : auto;
+  width : 200px;
 }
 header {
   height: 50px;
 }
 header ul {
-  font-size: 15px;
+  font-size: 8px;
   margin: auto;
-  padding-right: 15px;
+  padding-right: 10px;
   justify-content: space-around;
 }
 .contents-menu {
@@ -215,7 +215,7 @@ header ul {
 }
 .twitter-btn {
   flex: auto;
-  font-size: 20px;
+  font-size: 10px;
 }
 .sns i {
   font-size: 8px;
