@@ -217,6 +217,9 @@ header ul {
   flex: auto;
   font-size: 10px;
 }
+ .twitter i {
+font-size : 10px;
+  }
 .sns i {
   font-size: 8px;
 }
